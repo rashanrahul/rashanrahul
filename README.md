@@ -20,7 +20,7 @@
 - ⚡ Fun fact **call me as rashra**
 
 
-</br></br></br></br><h3 align="center">Connect with me </h3> <br>
+</br></br></br></br></br><h3 align="center">Connect with me </h3> <br>
 <p align="center">
 <a href="https://linkedin.com/in/rashan rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashan rahul" height="40" width="50" /></a>
 <a href="https://medium.com/@rashanrahul2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rashanrahul2000" height="40" width="50" /></a>
