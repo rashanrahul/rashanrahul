@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rashanrahul&label=Profile%20views&color=0e75b6&style=flat" alt="rashanrahul" /> </p> 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height=400px, width=350px /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" height=400px, width=350px /></p>
 
 
 ### My Topics
