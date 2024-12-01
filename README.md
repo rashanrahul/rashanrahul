@@ -24,6 +24,8 @@
 <p align="center">
 <a href="www.linkedin.com/in/rashan-rahul-0740382bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashan rahul" height="40" width="50" /></a>
 <a href="https://medium.com/@rashanrahul2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rashanrahul2000" height="40" width="50" /></a>
+  <a href="https://precisionqa.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="precisionqa" height="40" width="50" /></a>
+
 </p>
 </br>
 <h3 align="center">Languages and Tools  </h3> </br>
